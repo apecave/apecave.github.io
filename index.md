@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+![Apecave Logo](https://apecave.github.io/images/logo.png)
 
-You can use the [editor on GitHub](https://github.com/apecave/apecave.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Apecave
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are small collective of kirby enthusiasts.  We like squatchin.
 
 ### [Kirby3 Text Proxy Field](https://github.com/apecave/kirby3-text-proxy-field)
 
