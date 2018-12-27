@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/apecave/apecave.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [Kirby3 Text Proxy Field](https://github.com/apecave/kirby3-text-proxy-field)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Text field that can optionally proxy the placeholder value using the kirby query language.
+
+
 
 ```markdown
 Syntax highlighted code block
