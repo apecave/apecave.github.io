@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Welcome To Apecave
 description: A place to list our projects
-logo: https://apecave.github.io/images/logo.png
+logo: /images/logo.png
